@@ -1,6 +1,6 @@
 name: holidays_japan
-description: "A new Flutter package project."
-version: 0.1.0
+description: "You can get information about Japanese holidays by year."
+version: 0.1.1
 repository: https://github.com/own-world-grp/holidays_japan
 homepage: https://own-world-grp.net/
 
